@@ -1,7 +1,7 @@
 characterness
 =============
 
-This software package contains the scene text detection algorithm described in the the paper: "Characterness: An Indicator of Text in the Wild", IEEE Transactions on Image Processing. 
+This software package contains the scene text detection algorithm described in the the paper: "Characterness: An Indicator of Text in the Wild", IEEE Transactions on Image Processing, 2014. 
 
 This software is provided for research purposes. Please cite our paper if you use the package. The code is tested on Matlab 2013a, Ubuntu 13.10. 
 
@@ -21,7 +21,7 @@ Note that in the package, we load pretained distributions of the three cues on c
 
 License
 -------
-Copyright (c) 2013 Yao Li, Wenjing Jia, Chunhua Shen, Anton van den Hengel
+Copyright (c) 2014 Yao Li, Wenjing Jia, Chunhua Shen, Anton van den Hengel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
