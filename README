@@ -16,8 +16,7 @@ Getting started
 
 Please run the demo.m file to see how the algorithm works. 
 
-Note that in the package, we load pretained distributions of the three cues on characters and non-characters (See data/CueNegativeDistribution_229.mat and data/CuePositiveDistribution_229.mat).
-The distributions are learned from the ICDAR 2013 Robust Reading Competition (Challenge 2) training set. You can learn distributions from other sources.
+Note that in the package, we load pretained distributions of the three cues on characters and non-characters (See data/CueNegativeDistribution_229.mat and data/CuePositiveDistribution_229.mat).The distributions are learned from the ICDAR 2013 Robust Reading Competition (Challenge 2) training set.
 
 As we include the graph cuts toolbox in this package, please considering citing the papers on graph cuts. 
 
