@@ -1,0 +1,25 @@
+function display(rgb,textBox)
+num = size(textBox,1);
+t
+for i = 1:num
+    if 
+        top(i)>2&&left(i)>2
+        f0(top(i)-2:buttom(i)+2,left(i)-2:left(i),1)=0;
+        f0(top(i)-2:buttom(i)+2,left(i)-2:left(i),2)=0;       
+        f0(top(i)-2:buttom(i)+2,left(i)-2:left(i),3)=255;        
+        
+        f0(top(i)-2:buttom(i)+2,right(i):right(i)+2,1)=0;
+        f0(top(i)-2:buttom(i)+2,right(i):right(i)+2,2)=0;
+        f0(top(i)-2:buttom(i)+2,right(i):right(i)+2,3)=255;
+        
+        f0(top(i)-2:top(i),left(i):right(i),1)=0;
+        f0(top(i)-2:top(i),left(i):right(i),2)=0;
+        f0(top(i)-2:top(i),left(i):right(i),3)=255;
+        
+        f0(buttom(i):buttom(i)+2,left(i):right(i),1)=0;
+        f0(buttom(i):buttom(i)+2,left(i):right(i),2)=0;        
+        f0(buttom(i):buttom(i)+2,left(i):right(i),3)=255;
+
+    end;
+end;
+figure,imshow(f0,[]);
