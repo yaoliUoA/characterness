@@ -3,7 +3,7 @@ characterness
 
 This software package contains the scene text detection algorithm described in the the paper: 
 
-## [Yao Li](https://cs.adelaide.edu.au/~yaoli/), [Wenjing Jia](http://cfsites1.uts.edu.au/research/strengths/inext/member-detail.cfm?StaffID=4857), [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/), Anton van den Hengel(http://cs.adelaide.edu.au/~hengel/).**Characterness: An Indicator of Text in the Wild.** IEEE Transactions on Image Processing, 2014. [PDF](http://cs.adelaide.edu.au/~yaoli/wp-content/publications/tip14_characterness.pdf) | [Project page](http://cs.adelaide.edu.au/~yaoli/?page_id=111/) 
+## [Yao Li](https://cs.adelaide.edu.au/~yaoli/), [Wenjing Jia](http://cfsites1.uts.edu.au/research/strengths/inext/member-detail.cfm?StaffID=4857), [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/), [Anton van den Hengel](http://cs.adelaide.edu.au/~hengel/).**Characterness: An Indicator of Text in the Wild.** IEEE Transactions on Image Processing, 2014. [PDF](http://cs.adelaide.edu.au/~yaoli/wp-content/publications/tip14_characterness.pdf) | [Project page](http://cs.adelaide.edu.au/~yaoli/?page_id=111/) 
 
 
 This software is provided for research purposes. Please cite our paper if you use the package. The code is tested on Matlab 2013a, Ubuntu 13.10. 
