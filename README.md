@@ -1,10 +1,17 @@
 characterness
 =============
 
-This software package contains the scene text detection algorithm described in the the paper: "Characterness: An Indicator of Text in the Wild", IEEE Transactions on Image Processing, 2014. [Project page](http://cs.adelaide.edu.au/~yaoli/?page_id=111/) 
+This software package contains the scene text detection algorithm described in the the paper: 
+
+## [Yao Li](https://cs.adelaide.edu.au/~yaoli/), [Wenjing Jia](http://cfsites1.uts.edu.au/research/strengths/inext/member-detail.cfm?StaffID=4857), [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/), Anton van den Hengel(http://cs.adelaide.edu.au/~hengel/).**Characterness: An Indicator of Text in the Wild.** IEEE Transactions on Image Processing, 2014. [PDF](http://cs.adelaide.edu.au/~yaoli/wp-content/publications/tip14_characterness.pdf) | [Project page](http://cs.adelaide.edu.au/~yaoli/?page_id=111/) 
 
 
 This software is provided for research purposes. Please cite our paper if you use the package. The code is tested on Matlab 2013a, Ubuntu 13.10. 
+
+Abstract
+--------
+
+Text in an image provides vital information for interpreting its contents, and text in a scene can aid a variety of tasks from navigation to obstacle avoidance and odometry. Despite its value, however, detecting general text in images remains a challenging research problem. Motivated by the need to consider the widely varying forms of natural text, we propose a bottom-up approach to the problem which reflects the 'characterness' of an image region. In this sense our approach mirrors the move from saliency detection methods to measures of 'objectness' . In order to measure the characterness we develop three novel cues that are tailored for character detection, and a Bayesian method for their integration. Because text is made up of sets of characters, we the design a Markov random field (MRF) model so as to exploit the inherent dependencies between characters. We experimentally demonstrate the effectiveness of our characterness cues as well as the advantage of Bayesian multi-cue integration. The proposed text detector outperforms state-of-the-art methods on a few benchmark scene text detection datasets. We also show that our measurement of 'characterness' is superior than state-of-the-art saliency detection models when applied to the same task.
 
 Installation
 -------------
