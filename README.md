@@ -1,15 +1,15 @@
 characterness
 =============
 
-This software package contains the scene text detection algorithm described in the the paper: "Characterness: An Indicator of Text in the Wild", IEEE Transactions on Image Processing, 2014. [project page](http://cs.adelaide.edu.au/~yaoli/?page_id=111/)
+This software package contains the scene text detection algorithm described in the the paper: "Characterness: An Indicator of Text in the Wild", IEEE Transactions on Image Processing, 2014. [Project page](http://cs.adelaide.edu.au/~yaoli/?page_id=111/) 
+
 
 This software is provided for research purposes. Please cite our paper if you use the package. The code is tested on Matlab 2013a, Ubuntu 13.10. 
 
 Installation
 -------------
 
-Before you use this software, please download the vlfeat toolbox from 
-http://www.vlfeat.org/ and add it to the current Matlab search path. 
+Before you use this software, please download the [vlfeat toolbox](http://www.vlfeat.org/) and add it to the current Matlab search path. 
 
 Getting started
 ---------------
